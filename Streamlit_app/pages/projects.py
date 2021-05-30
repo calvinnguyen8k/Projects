@@ -5,7 +5,8 @@ def write():
     """Used to write the page in the app.py file"""
     st.title("Projects - :male-construction-worker: ")
     st.markdown(
-            """### Graduate Consultant, LIMRA | Aug 2019 – Dec 2019
+"""
+### Graduate Consultant, LIMRA | Aug 2019 – Dec 2019
             
 **Life insurance Policy Lapse Study [AWS Sagemaker, S3, Python, MS Project]**
 - Performed exploratory data analysis on 9.6 million records of aggregated data about “premium persistency” and analyzed the frequency and causes of lapses using Tableau
