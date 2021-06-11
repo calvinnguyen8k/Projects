@@ -1,2 +1,3 @@
-Hello Everyone,\n
+Hello Everyone,
+
 My name is Calvin
